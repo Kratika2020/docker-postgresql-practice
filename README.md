@@ -1,2 +1,2 @@
 # docker-postgresql-practice
-Doscker and Postgresql practice
+Docker and Postgresql practice
